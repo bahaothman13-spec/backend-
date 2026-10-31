@@ -1,3 +1,2 @@
-
-
-print("my name is khaled  24 ggg")
+print("hello nigga")
+print("world")  
